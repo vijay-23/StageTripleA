@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.wait": 1
+}
